@@ -1,3 +1,4 @@
+Lucas Britto Mendes Paiva
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
@@ -8,4 +9,4 @@ avanca.forEach(button => {
         atual.classList.remove('ativo');
         document.getElementById(proximoPasso).classList.add('ativo');
     })
-}) Lucas,Britto,Mendes,Paiva,
+})
