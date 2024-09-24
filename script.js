@@ -9,3 +9,4 @@ avanca.forEach(button => {
         document.getElementById(proximoPasso).classList.add('ativo');
     })
 })
+Lucas Britto Mendes Paiva 2D 24/09/2024
